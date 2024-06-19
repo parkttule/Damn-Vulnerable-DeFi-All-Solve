@@ -14,14 +14,14 @@ Researcher Information: https://p6rkdoye0n-eth.notion.site/p6rkdoye0n-98c9fc56e7
 ## Damn-Vulnerable-DeFi All Solve / DeFi protocols vulnerabilities wargame write-up code
 
 ![alt text](image-1.png)
-To study and research DeFi protocols risks, I share [Damn-Vulnerable-DeFi]("https://www.damnvulnerabledefi.xyz/") all solve code.
+To study and research DeFi protocols risks, I share [Damn-Vulnerable-DeFi](https://www.damnvulnerabledefi.xyz/) all solve code.
 
 I think it is a useful reference for many people when studying.
 
 ## Getting Started
 ![alt text](image-2.png)
 
-The codes are based on the [hardhat]("https://hardhat.org/") framework, which makes more smart contract builds easy.
+The codes are based on the [hardhat](https://hardhat.org/) framework, which makes more smart contract builds easy.
 
 So, in order to use the code, hardhat must be installed by default, and then run the code.
 
